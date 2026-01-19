@@ -66,6 +66,7 @@ export default function App() {
         <div className="card">
           <div className="tools">
             <img src="/aws.jpg" alt="AWS" />
+            <img src="/devops.jpg" alt="DevOps" />
             <img src="/docker.jpg" alt="Docker" />
             <img src="/jenkins.jpg" alt="Jenkins" />
             <img src="/git.jpg" alt="Git" />
@@ -113,7 +114,7 @@ export default function App() {
         <h3 className="section-title">Education</h3>
         <div className="card">
           <p>
-            <strong>B.Sc. Computer Science</strong> – Mathura (2021)
+            <strong>B.Sc. Computer Science</strong> – 2021
           </p>
           <p>
             <strong>Class XII (CBSE)</strong> – 2018
