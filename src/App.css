@@ -261,3 +261,8 @@ footer {
     padding: 26px;
   }
 }
+.card p {
+  line-height: 1.6;
+  font-size: 15px;
+  color: #333;
+}

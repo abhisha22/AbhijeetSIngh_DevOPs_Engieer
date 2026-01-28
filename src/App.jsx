@@ -60,6 +60,21 @@ export default function App() {
         </p>
       </header>
 
+      {/* PROFESSIONAL SUMMARY */}
+        <section>
+          <h3 className="section-title">Professional Summary</h3>
+          <div className="card">
+            <p>
+              Cloud / DevOps Engineer with 2.8+ years of hands-on experience designing,
+              deploying, and managing AWS-based production systems. Strong expertise in
+              Docker, ECS, CI/CD automation, cloud security, and cost optimization.
+              Proven ability to support scalable applications and improve reliability,
+              performance, and cloud cost efficiency.
+            </p>
+          </div>
+        </section>
+
+
       {/* TOOLS */}
       <section>
         <h3 className="section-title">Tools & Platforms</h3>
@@ -69,6 +84,7 @@ export default function App() {
             <img src="/devops.jpg" alt="DevOps" />
             <img src="/docker.jpg" alt="Docker" />
             <img src="/jenkins.jpg" alt="Jenkins" />
+            <img src="/linux.jpg" alt="linux" />
             <img src="/git.jpg" alt="Git" />
           </div>
         </div>
